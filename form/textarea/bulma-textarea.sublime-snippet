@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<textarea class="textarea" placeholder="Hello world"></textarea>
+]]></content>
+	<tabTrigger>bulma-textarea</tabTrigger>
+</snippet>
+

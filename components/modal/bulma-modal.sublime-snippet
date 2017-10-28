@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-content">
+    ${0}
+  </div>
+  <button class="modal-close is-large" aria-label="close"></button>
+</div>
+]]></content>
+	<tabTrigger>bulma-modal</tabTrigger>
+</snippet>

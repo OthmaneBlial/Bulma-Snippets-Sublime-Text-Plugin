@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="columns is-gapless">
+  <div class="column">
+	${0}
+  </div>
+  <div class="column">
+	${0}
+  </div>
+</div>
+]]></content>
+	<tabTrigger>bulma-cols-gapless</tabTrigger>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="field">
+  <div class="control">
+    <input class="input is-danger" type="text" placeholder="danger input">
+  </div>
+</div>
+]]></content>
+	<tabTrigger>bulma-input-danger</tabTrigger>
+</snippet>
+

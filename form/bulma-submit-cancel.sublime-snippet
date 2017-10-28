@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<div class="field is-grouped">
+  <p class="control">
+    <a class="button is-primary">
+      Submit
+    </a>
+  </p>
+  <p class="control">
+    <a class="button is-light">
+      Cancel
+    </a>
+  </p>
+</div>
+]]></content>
+	<tabTrigger>bulma-submit-cancel</tabTrigger>
+</snippet>
+

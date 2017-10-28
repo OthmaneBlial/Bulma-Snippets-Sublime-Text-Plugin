@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="tag is-delete">
+  ${0}
+</span>
+]]></content>
+	<tabTrigger>bulma-tag-delete</tabTrigger>
+</snippet>

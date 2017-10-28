@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="columns is-multiline">
+  <div class="column">
+	${0}
+  </div>
+  <div class="column">
+	${0}
+  </div>
+</div>
+]]></content>
+	<tabTrigger>bulma-cols-multiline</tabTrigger>
+</snippet>

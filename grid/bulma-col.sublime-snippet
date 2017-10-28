@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<div class="column is-$PARAM1">Auto</div>
+]]></content>
+	<tabTrigger>bulma-col</tabTrigger>
+</snippet>

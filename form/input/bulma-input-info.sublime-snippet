@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="field">
+  <div class="control">
+    <input class="input is-info" type="text" placeholder="info input">
+  </div>
+</div>
+]]></content>
+	<tabTrigger>bulma-input-info</tabTrigger>
+</snippet>
+

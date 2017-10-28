@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="icon has-text-warning">
+  <i class="fa fa-warning"></i>
+</span>
+]]></content>
+	<tabTrigger>bulma-icon-warning</tabTrigger>
+</snippet>

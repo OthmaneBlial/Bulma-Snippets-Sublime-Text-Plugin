@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="tag is-dark">
+  ${0}
+</span>
+]]></content>
+	<tabTrigger>bulma-tag-dark</tabTrigger>
+</snippet>

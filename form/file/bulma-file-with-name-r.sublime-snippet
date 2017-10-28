@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<div class="file has-name is-right">
+  <label class="file-label">
+    <input class="file-input" type="file" name="image">
+    <span class="file-cta">
+      <span class="file-icon">
+        <i class="fa fa-upload"></i>
+      </span>
+      <span class="file-label">
+        Choose a file…
+      </span>
+    </span>
+    <span class="file-name">
+      FileName.png
+    </span>
+  </label>
+</div>
+]]></content>
+	<tabTrigger>bulma-file-with-name-r</tabTrigger>
+</snippet>
+

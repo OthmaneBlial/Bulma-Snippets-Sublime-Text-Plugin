@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<label class="checkbox" disabled>
+  <input type="checkbox" disabled>
+  	${0}
+</label>
+]]></content>
+	<tabTrigger>bulma-checkbox-disabled</tabTrigger>
+</snippet>
+

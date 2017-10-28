@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<a class="button is-danger">${0}</a>
+]]></content>
+	<tabTrigger>bulma-btn-danger</tabTrigger>
+</snippet>

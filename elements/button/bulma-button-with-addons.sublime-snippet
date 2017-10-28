@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="field has-addons">
+  <p class="control">
+    <a class="button">
+      <span class="icon is-small">
+        <i class="fa fa-align-left"></i>
+      </span>
+      <span>Left</span>
+    </a>
+  </p>
+</div>
+]]></content>
+	<tabTrigger>bulma-button-with-addons</tabTrigger>
+</snippet>

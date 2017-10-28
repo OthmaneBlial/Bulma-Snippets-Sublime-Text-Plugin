@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<section class="hero is-warning">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        warning title
+      </h1>
+      <h2 class="subtitle">
+        warning subtitle
+      </h2>
+    </div>
+  </div>
+</section>
+]]></content>
+	<tabTrigger>bulma-hero-warning</tabTrigger>
+</snippet>
+

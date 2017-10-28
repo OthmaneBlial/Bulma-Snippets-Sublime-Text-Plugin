@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<section class="hero is-dark">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        dark title
+      </h1>
+      <h2 class="subtitle">
+        dark subtitle
+      </h2>
+    </div>
+  </div>
+</section>
+]]></content>
+	<tabTrigger>bulma-hero-dark</tabTrigger>
+</snippet>
+

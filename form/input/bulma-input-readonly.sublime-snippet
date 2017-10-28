@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div class="control">
+  <input class="input" type="text" value="This text is readonly" readonly>
+</div>
+]]></content>
+	<tabTrigger>bulma-input-readonly</tabTrigger>
+</snippet>
+

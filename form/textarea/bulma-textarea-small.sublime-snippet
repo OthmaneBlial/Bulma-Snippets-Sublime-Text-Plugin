@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="field">
+  <div class="control">
+    <textarea class="textarea is-small" type="text" placeholder="small textarea">
+		${0}
+    </textarea>
+  </div>
+</div>
+]]></content>
+	<tabTrigger>bulma-textarea-small</tabTrigger>
+</snippet>
+

@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<div class="field">
+  <label class="label is-small">Small input</label>
+  <div class="control has-icons-left has-icons-right">
+    <input class="input is-small" type="email" placeholder="Email">
+    <span class="icon is-small is-left">
+      <i class="fa fa-envelope"></i>
+    </span>
+    <span class="icon is-small is-right">
+      <i class="fa fa-check"></i>
+    </span>
+  </div>
+</div>
+]]></content>
+	<tabTrigger>bulma-input-icon-check</tabTrigger>
+</snippet>
+

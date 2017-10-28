@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<section class="hero is-light">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        light title
+      </h1>
+      <h2 class="subtitle">
+        light subtitle
+      </h2>
+    </div>
+  </div>
+</section>
+]]></content>
+	<tabTrigger>bulma-hero-light</tabTrigger>
+</snippet>
+

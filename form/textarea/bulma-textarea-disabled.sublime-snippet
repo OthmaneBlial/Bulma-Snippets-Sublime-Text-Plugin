@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="field">
+  <div class="control">
+    <textarea class="textarea" type="text" placeholder="disabled textarea" disabled></textarea>
+  </div>
+</div>
+]]></content>
+	<tabTrigger>bulma-textarea-disabled</tabTrigger>
+</snippet>
+

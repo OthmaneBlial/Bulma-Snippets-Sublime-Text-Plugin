@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="tag is-large">
+  ${0}
+</span>
+]]></content>
+	<tabTrigger>bulma-tag-large</tabTrigger>
+</snippet>

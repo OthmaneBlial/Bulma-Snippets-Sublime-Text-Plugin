@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<div class="select is-multiple">
+  <select multiple size="5">
+    <option value="Argentina">Argentina</option>
+    <option value="Bolivia">Bolivia</option>
+    <option value="Brazil">Brazil</option>
+    <option value="Chile">Chile</option>
+    <option value="Colombia">Colombia</option>
+  </select>
+</div>
+]]></content>
+	<tabTrigger>bulma-select-multiple</tabTrigger>
+</snippet>
+

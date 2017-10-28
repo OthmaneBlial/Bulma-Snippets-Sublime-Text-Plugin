@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="field">
+  <div class="control">
+    <textarea class="textarea is-loading" type="text" placeholder="loading textarea">
+		${0}
+    </textarea>
+  </div>
+</div>
+]]></content>
+	<tabTrigger>bulma-textarea-loading</tabTrigger>
+</snippet>
+

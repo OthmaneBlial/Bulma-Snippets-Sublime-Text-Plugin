@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="tag is-warning">
+  ${0}
+</span>
+]]></content>
+	<tabTrigger>bulma-tag-warning</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<a class="button is-success">${0}</a>
+]]></content>
+	<tabTrigger>bulma-button-success</tabTrigger>
+</snippet>

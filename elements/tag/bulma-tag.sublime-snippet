@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="tag">
+  ${0}
+</span>
+]]></content>
+	<tabTrigger>bulma-tag</tabTrigger>
+</snippet>

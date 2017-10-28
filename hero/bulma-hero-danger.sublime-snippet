@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<section class="hero is-danger">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        danger title
+      </h1>
+      <h2 class="subtitle">
+        danger subtitle
+      </h2>
+    </div>
+  </div>
+</section>
+]]></content>
+	<tabTrigger>bulma-hero-danger</tabTrigger>
+</snippet>
+

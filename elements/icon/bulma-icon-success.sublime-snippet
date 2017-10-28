@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="icon has-text-success">
+  <i class="fa fa-check-square"></i>
+</span>
+]]></content>
+	<tabTrigger>bulma-icon-success</tabTrigger>
+</snippet>

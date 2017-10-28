@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<a class="button">${0}</a>
+]]></content>
+	<tabTrigger>bulma-button</tabTrigger>
+</snippet>

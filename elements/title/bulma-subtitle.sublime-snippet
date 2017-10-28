@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<h2 class="subtitle">${0}</h2>
+]]></content>
+	<tabTrigger>bulma-subtitle</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="container is-fluid">
+  ${0}
+</div>
+]]></content>
+	<tabTrigger>bulma-container-fl</tabTrigger>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<progress class="progress is-info" value="50" max="100">50%</progress>
+]]></content>
+	<tabTrigger>bulma-progress-info</tabTrigger>
+</snippet>

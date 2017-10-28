@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<span class="icon has-text-danger">
+  <i class="fa fa-ban"></i>
+</span>
+]]></content>
+	<tabTrigger>bulma-icon-danger</tabTrigger>
+</snippet>

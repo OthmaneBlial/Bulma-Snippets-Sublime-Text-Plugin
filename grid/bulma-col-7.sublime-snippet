@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="column is-7">
+	${0}
+</div>
+]]></content>
+	<tabTrigger>bulma-col:7</tabTrigger>
+</snippet>

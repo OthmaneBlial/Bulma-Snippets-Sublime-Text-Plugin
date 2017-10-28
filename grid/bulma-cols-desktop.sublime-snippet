@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="columns is-desktop">
+  <div class="column">
+	${0}
+  </div>
+</div>
+]]></content>
+	<tabTrigger>bulma-cols-desktop</tabTrigger>
+</snippet>

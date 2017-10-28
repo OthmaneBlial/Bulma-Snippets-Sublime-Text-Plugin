@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<a class="button is-light">${0}</a>
+]]></content>
+	<tabTrigger>bulma-button-light</tabTrigger>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<a class="button is-success">
+   <span class="icon is-small">
+     <i class="fa fa-check"></i>
+   </span>
+  <span>${0}</span>
+</a>
+]]></content>
+	<tabTrigger>bulma-button-with-icon</tabTrigger>
+</snippet>

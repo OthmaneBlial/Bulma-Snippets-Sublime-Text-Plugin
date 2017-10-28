@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<div class="tags">
+  <span class="tag">${1}</span>
+  <span class="tag">${2}</span>
+  <span class="tag">${3}</span>
+</div>
+]]></content>
+	<tabTrigger>bulma-tags</tabTrigger>
+</snippet>

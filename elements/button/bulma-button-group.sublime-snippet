@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+<div class="field is-grouped">
+  <p class="control">
+    <a class="button is-link">
+      Save changes
+    </a>
+  </p>
+  <p class="control">
+    <a class="button">
+      Cancel
+    </a>
+  </p>
+  <p class="control">
+    <a class="button is-danger">
+      Delete post
+    </a>
+  </p>
+</div>
+]]></content>
+	<tabTrigger>bulma-button-group</tabTrigger>
+</snippet>

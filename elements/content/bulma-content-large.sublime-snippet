@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="content is-large">
+  <h1>Hello World</h1>
+  <p>Lorem ipsum justo nibh eu lectus. Ut vulputate semper dui. Fusce erat odio, sollicitudin vel erat vel, interdum mattis neque.</p>
+  <h2>Second level</h2>
+  <p>Curabitur accumsan turpis pharetra <strong>augue tincidunt</strong> blandit. Quisque condimentum maximus mi, sit amet commodo arcu rutrum id.</p>
+</div>
+]]></content>
+	<tabTrigger>bulma-content-large</tabTrigger>
+</snippet>
